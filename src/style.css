@@ -1,0 +1,100 @@
+/* contenedor imagen 1 */
+
+/* contenedor-1 logo */
+.container-1 {
+  background-image: url("../src/img/hotel");
+  background-position: center;
+  background-size: cover;
+  margin: 3vw;
+}
+
+.container-1-intern {
+  padding: 2vw;
+  background-color: #0000008c;
+}
+
+.img-logoTermas {
+  width: 70%;
+}
+
+/* contenedor-1 menu */
+.menu-container {
+  padding: 8vh 0 0 0;
+  border-bottom: 2px solid #ffffff;
+}
+
+.btn-text-menu {
+  font-size: 1.2vw;
+  font-family: "CooperHewitt-Light";
+  color: #ffffff;
+  background: transparent;
+  border: none;
+  padding-bottom: 0;
+}
+
+.btn-text-menu:hover,
+.btn-text-menu:active,
+.btn-text-menu:focus {
+  background: transparent;
+  color: #00000066;
+}
+
+/* contenedor-1 textos */
+.text-title-1 {
+  font-size: 4vw;
+  font-family: "CooperHewitt-Book";
+  color: #ffffff;
+  margin-bottom: 0;
+}
+
+.text-subtitle-1 {
+  font-size: 2.5vw;
+  font-family: "CooperHewitt-Light";
+  color: #ffffff;
+}
+
+.container-text {
+  padding-top: 34vh;
+}
+
+/* contenedor-1 boton redondo */
+.btn-arrow {
+  background-color: #ffffff;
+  border-radius: 100%;
+  color: #575553;
+  border: none;
+  margin-right: 1vw;
+}
+
+.btn-arrow:hover,
+.btn-arrow:active,
+.btn-arrow:focus {
+  background: #ffffff;
+  color: #004b1a;
+}
+
+/* generales */
+
+.row {
+  margin: 0;
+}
+
+.no-padd-left {
+  padding-left: 0;
+}
+
+.no-padd-right {
+  padding-right: 0;
+}
+
+/* fuentes */
+
+@font-face {
+  font-family: "CooperHewitt-Light";
+  src: url("./fonts/cooper-hewitt/CooperHewitt-Light.otf");
+}
+
+@font-face {
+  font-family: "CooperHewitt-Book";
+  src: url("./fonts/cooper-hewitt/CooperHewitt-Book.otf");
+}
