@@ -346,7 +346,7 @@ hr {
 .div-title-cont-8 {
   padding-bottom: 2vh;
   font-family: "CooperHewitt-Book";
-  color: #6a6a6ae1;
+  color: #6a6a6aee;
   font-size: 0.9vw;
   padding-left: 0;
 }
@@ -380,6 +380,41 @@ hr {
   font-size: 2vw;
   color: #004b1a;
 }
+
+.padd-info-cont-8 {
+  padding-bottom: 5vh;
+}
+
+/* contenedor-9 pie-info */
+/* contenedor-9 pie-info */
+.container-9 {
+  background-color: #21201e;
+  padding-top: 20vh;
+  padding-bottom: 5vh;
+}
+
+.text-cont-9 {
+  font-family: "CooperHewitt-Book";
+  font-size: 0.9vw;
+  color: #ffffff;
+}
+
+.title-cont-9 {
+  font-family: "CooperHewitt-Book";
+  font-size: 1.5vw;
+  color: #ffffff;
+}
+
+.i-cont-9 {
+  font-size: 1.3vw;
+  color: #ffffff;
+}
+
+.img-logo-cont-9 {
+  width: 70%;
+  margin-top: -3vh;
+}
+
 /* generales */
 /* generales */
 
