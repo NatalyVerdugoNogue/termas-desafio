@@ -227,6 +227,39 @@ hr {
   padding-top: 3vh;
 }
 
+/* contenedor-5 imagen 5 */
+/* contenedor-5 imagen 5 */
+
+/* contenedor-5 fondo */
+.container-5 {
+  background-image: url("../src/img/hotel");
+  background-size: cover;
+  margin: 0;
+  background-position: top;
+}
+
+.container-5-intern {
+  background-color: #0000008c;
+}
+
+.container-5-text {
+  padding: 45vh 3vw 10vh 3vw;
+}
+
+.btn-con-5-arrow {
+  border-radius: 100%;
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  font-size: 2vw;
+  padding: 1vh 1.5vw;
+}
+
+.container-5-btn {
+  padding-top: 57vh;
+  padding-left: 5vw;
+}
+
+/* generales */
 /* generales */
 
 .row {
