@@ -1,11 +1,12 @@
-/* contenedor imagen 1 */
+/* contenedor-1 imagen 1 */
+/* contenedor-1 imagen 1 */
 
 /* contenedor-1 logo */
 .container-1 {
   background-image: url("../src/img/hotel");
   background-position: center;
   background-size: cover;
-  margin: 3vw;
+  margin: 3vw 3vw 1vw 3vw;
 }
 
 .container-1-intern {
@@ -73,6 +74,58 @@
   color: #004b1a;
 }
 
+/* contenedor-2 selectores-boton */
+/* contenedor-2 selectores-boton */
+.container-2 {
+  padding: 2vh 7vw;
+}
+
+.row-container-2 {
+  height: 12vh;
+}
+
+.text-container-2 {
+  box-shadow: 0px 2px 4px 0px rgba(87, 85, 83, 0.45);
+  margin-right: 1vh;
+  font-size: 1.2vw;
+  font-family: "CooperHewitt-Light";
+  padding-top: 4vh;
+}
+
+.btn-container-2 {
+  margin-right: -4vh;
+  padding: 0;
+}
+
+.btn-container-2-inter {
+  width: 100%;
+  height: 100%;
+  background-color: #004b1a;
+  border-radius: 0;
+  font-size: 1.4vw;
+  font-family: "CooperHewitt-Light";
+}
+.i-container-2 {
+  color: #004b1acc;
+  font-size: 1.5vw;
+}
+
+.i-container-2-arrow {
+  color: #6a6a6a;
+}
+
+.line-container-2 {
+  border-left: 1.5px solid #004b1acc;
+  height: 7vh;
+  margin-top: -2vh;
+}
+.text-input-container-2 {
+  color: #6a6a6a;
+  font-family: "CooperHewitt-Book";
+  font-size: 1vw;
+  padding: 0 1.2vw;
+}
+
 /* generales */
 
 .row {
@@ -85,6 +138,10 @@
 
 .no-padd-right {
   padding-right: 0;
+}
+
+.text-align-center {
+  text-align: center;
 }
 
 /* fuentes */
