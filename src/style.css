@@ -313,6 +313,73 @@ hr {
   margin-bottom: 0;
 }
 
+/* contenedor-8 ubicación */
+/* contenedor-8 ubicación */
+
+.img-container-8 {
+  background: linear-gradient(
+      to top left,
+      rgba(255, 255, 255, 0),
+      rgb(255, 255, 255)
+    ),
+    url(../src/img/ubicacion);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.title-container-8 {
+  font-family: "CooperHewitt-Light";
+  color: #6a6a6a;
+  font-size: 3vw;
+}
+
+.div-text-1-cont-8 {
+  font-family: "CooperHewitt-Light";
+  color: #ffffff;
+  font-size: 1vw;
+}
+
+.p-title-cont-8 {
+  margin-bottom: 0;
+}
+
+.div-title-cont-8 {
+  padding-bottom: 2vh;
+  font-family: "CooperHewitt-Book";
+  color: #6a6a6ae1;
+  font-size: 0.9vw;
+  padding-left: 0;
+}
+
+.border-top-cont-8 {
+  border-top: 2px solid #6a6a6a80;
+  width: 6vw;
+}
+
+.text-1-container-8 {
+  font-family: "CooperHewitt-Book";
+  color: #6a6a6a;
+  font-size: 1.1vw;
+}
+.title-cont-8-indication {
+  font-family: "CooperHewitt-Book";
+  font-size: 1.6vw;
+  color: #004b1a;
+  padding-left: 3vw;
+}
+
+.div-text-cont-8 {
+  padding-top: 12vh;
+}
+
+.padd-text-cont-8 {
+  padding-bottom: 30vh;
+}
+
+.i-cont-8 {
+  font-size: 2vw;
+  color: #004b1a;
+}
 /* generales */
 /* generales */
 
