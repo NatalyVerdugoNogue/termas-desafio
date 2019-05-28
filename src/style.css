@@ -76,6 +76,7 @@
 
 /* contenedor-2 selectores-boton */
 /* contenedor-2 selectores-boton */
+
 .container-2 {
   padding: 2vh 7vw;
 }
@@ -126,6 +127,53 @@
   padding: 0 1.2vw;
 }
 
+/* contenedor-3 tectos */
+/* contenedor-3 tectos */
+
+.title-container-3 {
+  font-family: "CooperHewitt-Light";
+  color: #6a6a6a;
+  font-size: 3vw;
+  padding-top: 12vh;
+}
+
+.text-1-container-3 {
+  font-family: "CooperHewitt-Book";
+  color: #6a6a6a;
+  font-size: 1.1vw;
+  margin: 0;
+}
+.text-2-container-3 {
+  font-family: "CooperHewitt-Light";
+  color: #6a6a6a;
+  font-size: 0.9vw;
+  margin: 0;
+}
+
+hr {
+  width: 10vh;
+  display: inline-block;
+  margin: 0;
+  border-top: 1px solid rgba(106, 106, 106, 0.3);
+}
+
+.border-bttom-title {
+  margin-top: -2vh;
+  color: rgba(106, 106, 106, 0.3);
+  font-size: 0.3vw;
+}
+.i-point {
+  padding: 0 0.5vw;
+}
+
+.div-text-1-con-3 {
+  padding: 5vh 0;
+}
+
+.div-text-2-con-3 {
+  padding: 2vh 0;
+}
+
 /* generales */
 
 .row {
@@ -143,6 +191,9 @@
 .text-align-center {
   text-align: center;
 }
+.margin-x-auto {
+  margin: 0 auto;
+}
 
 /* fuentes */
 
@@ -154,4 +205,14 @@
 @font-face {
   font-family: "CooperHewitt-Book";
   src: url("./fonts/cooper-hewitt/CooperHewitt-Book.otf");
+}
+
+@font-face {
+  font-family: "CooperHewitt-Bold";
+  src: url("./fonts/cooper-hewitt/CooperHewitt-Bold.otf");
+}
+
+@font-face {
+  font-family: "CooperHewitt-Semibold";
+  src: url("./fonts/cooper-hewitt/CooperHewitt-Semibold.otf");
 }
