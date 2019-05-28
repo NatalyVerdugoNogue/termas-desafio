@@ -259,6 +259,61 @@ hr {
   padding-left: 5vw;
 }
 
+/* contenedor-6 tarjetas */
+/* contenedor-6 tarjetas */
+
+.img-cont-6 {
+  height: 40vh;
+}
+
+.card {
+  height: 80vh;
+}
+
+.card-title {
+  font-family: "CooperHewitt-Light";
+  color: #6a6a6a;
+  font-size: 2.3vw;
+}
+
+.card-subtitle {
+  font-family: "CooperHewitt-Light";
+  font-size: 1.1vw;
+}
+
+.card-text {
+  font-family: "CooperHewitt-Book";
+  color: #6a6a6a;
+  font-size: 0.9vw;
+  padding: 3vh 2vw;
+}
+
+.border-cont-9 {
+  border-bottom: 2px solid #6c757d80;
+  margin-left: 11vw;
+  margin-right: 11vw;
+}
+
+.line-red {
+  color: rgba(255, 68, 0, 0.5);
+  border-color: rgba(255, 68, 0, 0.5);
+}
+
+.padd-border-cont-6 {
+  padding-bottom: 8vh;
+}
+
+.card-body {
+  box-shadow: 0px 2px 4px 0px rgba(87, 85, 83, 0.45);
+}
+
+.title-container-6 {
+  font-family: "CooperHewitt-Light";
+  color: #6a6a6a;
+  font-size: 3vw;
+  padding-top: 5vh;
+}
+
 /* contenedor-7 imagen 7 */
 /* contenedor-7 imagen 7 */
 
